@@ -1,0 +1,6 @@
+com\assignment\model\MetaDataFields.class
+com\assignment\controllers\RequestController.class
+com\assignment\dao\MetaDataFieldsRepository.class
+com\assignment\config\BeanConfig.class
+com\assignment\config\JerseyConfig.class
+com\assignment\App.class
